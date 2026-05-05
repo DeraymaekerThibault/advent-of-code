@@ -1,0 +1,12 @@
+# Rust
+target/
+Cargo.lock
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Editor
+.vscode/
+.idea/
